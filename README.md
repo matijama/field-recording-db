@@ -9,8 +9,8 @@ The repository contains the *SeFiRe dataset* - a dataset of annotated field reco
 
 You will find two folders in the repository. *Samples* contains five second audio samples, their annotations are given in _sample labels.txt_, which is a tab-delimited text file. *External samples* contains annotations of five second clips extracted from a number of online sources. We can't include the clips in the dataset, but we provide links to audio files with the location of each extracted clip and its label in _external sources.txt_. 
 
-Feel free to use the dataset for your research, if you use it, please quote the following paper:
-* Matija Marolt, "Going deep with segmentation of field recordings," Proceedings of Folk Music Analysis Workshop, Thessaloniki, Greece, 2018. URL: http://fma2018.mus.auth.gr/files/papers/FMA2018_paper_11.pdf .
+Feel free to use the dataset for your research, if you use it, please cite the following paper:
+* M. Marolt, C. Bohak, A. Kavčič, and M. Pesek, [Automatic segmentation of ethnomusicological field recordings](https://www.mdpi.com/2076-3417/9/3/439/pdf), Applied sciences, vol. 9, iss. 3, pp. 1-12, 2019..
 
 
 
